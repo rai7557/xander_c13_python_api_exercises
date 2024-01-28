@@ -1,3 +1,9 @@
+"""
+Starter code for refactoring exercise.
+
+A simple CLI-based rock, paper, scissors game to play against the computer.
+"""
+
 import random
 
 
