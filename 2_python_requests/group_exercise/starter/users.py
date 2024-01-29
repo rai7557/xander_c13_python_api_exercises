@@ -1,4 +1,4 @@
-"""Starter code for Python requests exercise"""
+"""Starter code for Python requests group exercise"""
 
 
 def get_users():

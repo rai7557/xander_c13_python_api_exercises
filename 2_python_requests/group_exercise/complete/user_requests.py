@@ -1,4 +1,4 @@
-from v1_procedural.constants.url import BASE_URL
+from constants.url import BASE_URL
 import requests
 import json
 
